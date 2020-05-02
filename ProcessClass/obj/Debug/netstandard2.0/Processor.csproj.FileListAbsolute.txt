@@ -1,0 +1,17 @@
+C:\CodeLearning\ProcessString\ProcessClass\bin\Debug\netstandard2.0\Processor.deps.json
+C:\CodeLearning\ProcessString\ProcessClass\bin\Debug\netstandard2.0\Processor.dll
+C:\CodeLearning\ProcessString\ProcessClass\bin\Debug\netstandard2.0\Processor.pdb
+C:\CodeLearning\ProcessString\ProcessClass\obj\Debug\netstandard2.0\Processor.csproj.CoreCompileInputs.cache
+C:\CodeLearning\ProcessString\ProcessClass\obj\Debug\netstandard2.0\Processor.AssemblyInfoInputs.cache
+C:\CodeLearning\ProcessString\ProcessClass\obj\Debug\netstandard2.0\Processor.AssemblyInfo.cs
+C:\CodeLearning\ProcessString\ProcessClass\obj\Debug\netstandard2.0\Processor.dll
+C:\CodeLearning\ProcessString\ProcessClass\obj\Debug\netstandard2.0\Processor.pdb
+C:\CodeLearning\NewProcessString\ProcessString\ProcessClass\bin\Debug\netstandard2.0\Processor.deps.json
+C:\CodeLearning\NewProcessString\ProcessString\ProcessClass\bin\Debug\netstandard2.0\Processor.dll
+C:\CodeLearning\NewProcessString\ProcessString\ProcessClass\bin\Debug\netstandard2.0\Processor.pdb
+C:\CodeLearning\NewProcessString\ProcessString\ProcessClass\obj\Debug\netstandard2.0\Processor.csproj.CoreCompileInputs.cache
+C:\CodeLearning\NewProcessString\ProcessString\ProcessClass\obj\Debug\netstandard2.0\Processor.AssemblyInfoInputs.cache
+C:\CodeLearning\NewProcessString\ProcessString\ProcessClass\obj\Debug\netstandard2.0\Processor.AssemblyInfo.cs
+C:\CodeLearning\NewProcessString\ProcessString\ProcessClass\obj\Debug\netstandard2.0\Processor.dll
+C:\CodeLearning\NewProcessString\ProcessString\ProcessClass\obj\Debug\netstandard2.0\Processor.pdb
+C:\CodeLearning\NewProcessString\ProcessString\ProcessClass\obj\Debug\netstandard2.0\Processor.csprojAssemblyReference.cache

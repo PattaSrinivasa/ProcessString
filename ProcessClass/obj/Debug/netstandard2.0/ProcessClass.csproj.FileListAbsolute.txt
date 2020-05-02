@@ -1,0 +1,8 @@
+C:\CodeLearning\ProcessString\ProcessClass\bin\Debug\netstandard2.0\ProcessClass.deps.json
+C:\CodeLearning\ProcessString\ProcessClass\bin\Debug\netstandard2.0\ProcessClass.dll
+C:\CodeLearning\ProcessString\ProcessClass\bin\Debug\netstandard2.0\ProcessClass.pdb
+C:\CodeLearning\ProcessString\ProcessClass\obj\Debug\netstandard2.0\ProcessClass.csproj.CoreCompileInputs.cache
+C:\CodeLearning\ProcessString\ProcessClass\obj\Debug\netstandard2.0\ProcessClass.AssemblyInfoInputs.cache
+C:\CodeLearning\ProcessString\ProcessClass\obj\Debug\netstandard2.0\ProcessClass.AssemblyInfo.cs
+C:\CodeLearning\ProcessString\ProcessClass\obj\Debug\netstandard2.0\ProcessClass.dll
+C:\CodeLearning\ProcessString\ProcessClass\obj\Debug\netstandard2.0\ProcessClass.pdb
