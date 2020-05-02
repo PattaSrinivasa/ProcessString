@@ -1,0 +1,9 @@
+SELECT b.Business, ISNULL(p.StreetNo,'') StreetNo, p.Street, 
+	   p.PostCode , ISNULL(fc.Total,0) FootfallCount
+	   FROM Businesses b INNER JOIN premises p 
+	   ON b.id = p.businessid
+	   LEFT JOIN 
+	   (
+			SELECT premisesid id, Sum([count]) Total FROM footfall GROUP BY premisesid
+	   ) fc
+	   ON p.id = fc.id
